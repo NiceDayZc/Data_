@@ -1,0 +1,1347 @@
+{
+  "data": {
+    "root": {
+      "fields": {
+        "productOption": {
+          "dnr": false,
+          "options": [
+            {
+              "image": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "path": "30097:F 46 สีขาวส้ม"
+            },
+            {
+              "image": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "path": "30097:-2"
+            },
+            {
+              "image": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "path": "30097:-3"
+            },
+            {
+              "image": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "path": "30097:-4"
+            }
+          ],
+          "skuBase": {
+            "properties": [
+              {
+                "name": "สี",
+                "needLabel": false,
+                "pid": "30097",
+                "type": "0",
+                "values": [
+                  {
+                    "image": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+                    "name": "F 46 สีขาวส้ม",
+                    "vid": "F 46 สีขาวส้ม"
+                  },
+                  {
+                    "image": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+                    "name": "F 46 สีดำฟ้า",
+                    "vid": "-2"
+                  },
+                  {
+                    "image": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+                    "name": "F 46 สีดำ",
+                    "vid": "-3"
+                  },
+                  {
+                    "image": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+                    "name": "F 46 สีดำส้ม",
+                    "vid": "-4"
+                  }
+                ]
+              }
+            ],
+            "skus": [
+              {
+                "cartItemId": "4200690269",
+                "cartSkuId": "16531712848",
+                "innerSkuId": "4200690269_TH-16531712848",
+                "itemId": "4200690269",
+                "pageId": "4200690269",
+                "pagePath": "/products/16-3-floor-stand-fan-5-14-934-2558-4-i4200690269-s16531712848.html?c=fs",
+                "propPath": "30097:-4",
+                "requestParams": "itemId=4200690269&sellerId=100200198003&skuId=16531712848",
+                "sellerId": "100200198003",
+                "skuId": "16531712848"
+              },
+              {
+                "cartItemId": "4200690269",
+                "cartSkuId": "16531712849",
+                "innerSkuId": "4200690269_TH-16531712849",
+                "itemId": "4200690269",
+                "pageId": "4200690269",
+                "pagePath": "/products/16-3-floor-stand-fan-5-14-934-2558-4-i4200690269-s16531712849.html?c=fs",
+                "propPath": "30097:F 46 สีขาวส้ม",
+                "requestParams": "itemId=4200690269&sellerId=100200198003&skuId=16531712849",
+                "sellerId": "100200198003",
+                "skuId": "16531712849"
+              },
+              {
+                "cartItemId": "4200690269",
+                "cartSkuId": "16531712850",
+                "innerSkuId": "4200690269_TH-16531712850",
+                "itemId": "4200690269",
+                "pageId": "4200690269",
+                "pagePath": "/products/16-3-floor-stand-fan-5-14-934-2558-4-i4200690269-s16531712850.html?c=fs",
+                "propPath": "30097:-2",
+                "requestParams": "itemId=4200690269&sellerId=100200198003&skuId=16531712850",
+                "sellerId": "100200198003",
+                "skuId": "16531712850"
+              },
+              {
+                "cartItemId": "4200690269",
+                "cartSkuId": "16531712851",
+                "innerSkuId": "4200690269_TH-16531712851",
+                "itemId": "4200690269",
+                "pageId": "4200690269",
+                "pagePath": "/products/16-3-floor-stand-fan-5-14-934-2558-4-i4200690269-s16531712851.html?c=fs",
+                "propPath": "30097:-3",
+                "requestParams": "itemId=4200690269&sellerId=100200198003&skuId=16531712851",
+                "sellerId": "100200198003",
+                "skuId": "16531712851"
+              }
+            ]
+          }
+        },
+        "skuGalleries": {
+          "0": [
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "src": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "src": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "src": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "src": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "src": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "src": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "src": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": false,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            }
+          ],
+          "16531712848": [
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "src": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "src": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "src": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "src": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "src": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "src": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "src": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": false,
+              "poster": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "src": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "type": "img"
+            }
+          ],
+          "16531712849": [
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "src": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "src": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "src": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "src": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "src": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "src": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "src": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": false,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            }
+          ],
+          "16531712850": [
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "src": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "src": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "src": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "src": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "src": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "src": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "src": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": false,
+              "poster": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "src": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "type": "img"
+            }
+          ],
+          "16531712851": [
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "src": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "src": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "src": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "src": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "src": "//th-test-11.slatic.net/p/f7939fbeb9304f669c99ba2c85ddfd9f.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "src": "//th-test-11.slatic.net/p/8d379b7549430c76dfb3766941ce6b05.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "src": "//th-test-11.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": true,
+              "poster": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "src": "//th-test-11.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg",
+              "type": "img"
+            },
+            {
+              "itemLevel": false,
+              "poster": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "src": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+              "type": "img"
+            }
+          ]
+        },
+        "product": {
+          "brand": {
+            "name": "NUK NIK",
+            "suggestion": "เพิ่มเติม เครื่องปรับอากาศและกรองอากาศขนาดเล็ก จาก NUK NIK  in TH",
+            "suggestionUrl": "https://www.lazada.co.th/shop-small-cooling-and-air-treatment/nuk-nik-124312871/",
+            "url": "https://www.lazada.co.th/nuk-nik-124312871/"
+          },
+          "desc": "<article><p><span>พัดลมตั้งโต๊ะ 16 นิ้ว ปรับระดับได้ 3 ระดับ เสียงเงียบ FLOOR STAND FAN 5ใบพัด * รับประกันมอเตอร์ 14วัน *[ มอก 934-2558 ] - มี4สี</span></p><p><span></span><img src=\"https://th-live-01.slatic.net/p/4f866015ffc202e202b9a7ef221355d0.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/9297dd19d80d3ecd8809722cf1b1ed39.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/95040ff75c12dc654e5e71cba47f6c87.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/a924e1db523dfe7b06bc5c693411b5b0.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/7f39837f16a77c3fb95bb9f6ca851a7b.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/d68691e094714675dd24b70bc2594871.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/67f901da4648181e64e6c27e5143e728.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/cd8bb47b9fc1a8ddb3579f46e844b630.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/544c195a069dcca504373092da76ef5b.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/5aa664fc6aacf45d222931de5a7929a3.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/7880acdaa281564ada5912a7ad4da722.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/b2ab565d54bbcd79b8918073fa4f8a5b.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/1539df59bef0759826197c85aaf0a3f8.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/af9f610eb1c45609c154c9bdf5833c12.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/fdc856a92389a6224528ee92021e7f4f.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/772cfc19b98488f6f75221a5d3bec5a7.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/435fc05e3390c0272331b2fab774530e.jpg\" /><span></span><img src=\"https://th-live-01.slatic.net/p/d61a4260cfbd6e23d872ed5cf92772e2.jpg\" /><span></span></p></article>",
+          "highlights": "<ul class=''><li class=''>มอก. 934-2558</li><li class=''>ขนาดใบพัด 16 นิ้ว ปรับแรงลมได้ 3 ระดับ</li><li class=''>ปลอดภัยด้วยระบบตัดไฟอัตโนมัติ(เทอร์โมฟิวส์)</li><li class=''>รับประกันมอเตอร์ 14วัน </li><li class=''>แรงดันไฟฟ้า 220 V ความถี่ 50 Hz กำลังไฟฟ้า 60 W กระแสไฟฟ้า 0.26 A</li></ul>",
+          "link": "https://www.lazada.co.th/products/16-3-floor-stand-fan-5-14-934-2558-4-i4200690269-s16531712849.html",
+          "rightImgRatio": 1.9,
+          "title": "พัดลมตั้งโต๊ะ 16 นิ้ว ปรับระดับได้ 3 ระดับ เสียงเงียบ FLOOR STAND FAN 5ใบพัด * รับประกันมอเตอร์ 14วัน * [ มอก 934-2558 ] - มี4สี"
+        },
+        "globalConfig": {
+          "showTBCBreadCrumb": true,
+          "facebookAppKey": "619684981485622",
+          "siteName": "Lazada",
+          "pvChecksum": "53732040",
+          "toastRule": {
+            "voucherPrice": {
+              "duration": 3,
+              "hit": true,
+              "intervalHours": 24,
+              "stayTime": 3
+            }
+          },
+          "showPurchaseTip": false,
+          "env": "new env",
+          "showSKUSelect": false,
+          "reGetDetail": true,
+          "site": "TH",
+          "showSFOTips": false,
+          "isAPPLE": false,
+          "recommendParameter": "search=1&category_id=10100299&item_id=4200690269&regional_key=300300001096&sku=4200690269_TH-16531712849&seller_id=100200198003&is_tbc=0&_=1698293795180&brand_id=124312871",
+          "isTBC": false,
+          "voucherListApi": "mtop.lazada.detail.getVouchers",
+          "viewedSFOUrl": "//pdpdesc-m.lazada.co.th/confirmMsg",
+          "host": "lazada-pdp-ns1a7007cd02b3655be5d1de220d85c7e8-zjgfg",
+          "voucherCollectApi": "mtop.lazada.promotion.voucher.spread",
+          "currency": "THB",
+          "showHTBTips": false,
+          "voucherListParams": "timeStamp=1698293795180&itemId=4200690269&lzd=D2941C3D76FA0555F3A9DCA5BAC343EE553486192A5A4A4D7DE7C70C23965B1BF2B4C857B517A4EAD6C6DE2F76DBF1286763364D2C5FE9EB4A2B82709DD252DB3A45DBBF7C8C27D0731148D2ECE7220A3ADB8E3CE70DA72A3ADB8E3CE70DA72A&skuId=16531712849&checkCode=ad88f10cfadcdb85272079490dca59cf",
+          "robots": "noindex,follow",
+          "lang": "th_TH",
+          "atmosphereInfo": {
+            "16531712848": {
+              "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+              "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+            },
+            "16531712849": {
+              "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+              "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+            },
+            "16531712850": {
+              "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+              "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+            },
+            "16531712851": {
+              "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+              "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+            }
+          },
+          "msiteExperimentConfig": {
+            "hideSmbCard": false,
+            "showMiniSmb": false,
+            "showSmbCloseBt": false,
+            "collapsedReviews": false,
+            "collapsedFaq": false,
+            "collapsedDetail": false,
+            "collapsedHighlights": false,
+            "collapsedJfy": false,
+            "changedJfyToThreeCol": false,
+            "changedJfyToRow": false,
+            "moveJfyUnderFaq": false,
+            "isControlGroup": true,
+            "needCsr": false,
+            "bucketId": 0
+          }
+        },
+        "skuInfos": {
+          "0": {
+            "categoryId": "10100299",
+            "image": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+            "inWishlist": false,
+            "itemId": "4200690269",
+            "operation": {
+              "disable": false,
+              "operationWeight": 7,
+              "text": "เพิ่มลงรายการที่ชอบ",
+              "type": "wishlist"
+            },
+            "preSaleTag": false,
+            "quantity": {
+              "limit": { "max": 0, "min": 0 },
+              "text": "สินค้าหมด",
+              "type": "warning"
+            },
+            "quantityList": [
+              {
+                "limit": { "max": 0, "min": 0 },
+                "text": "สินค้าหมด",
+                "type": "warning"
+              }
+            ],
+            "sellerId": "100200198003",
+            "skuId": "16531712849",
+            "stock": 0
+          },
+          "16531712848": {
+            "categoryId": "10100299",
+            "image": "//th-test-11.slatic.net/p/a6cdf29eae67cd85fd1fba6203f7de3c.jpg",
+            "inWishlist": false,
+            "itemId": "4200690269",
+            "operation": {
+              "disable": false,
+              "operationWeight": 7,
+              "text": "เพิ่มลงรายการที่ชอบ",
+              "type": "wishlist"
+            },
+            "preSaleTag": false,
+            "quantity": {
+              "limit": { "max": 0, "min": 0 },
+              "text": "สินค้าหมด",
+              "type": "warning"
+            },
+            "quantityList": [
+              {
+                "limit": { "max": 0, "min": 0 },
+                "text": "สินค้าหมด",
+                "type": "warning"
+              }
+            ],
+            "sellerId": "100200198003",
+            "skuId": "16531712848",
+            "stock": 0
+          },
+          "16531712849": {
+            "categoryId": "10100299",
+            "image": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+            "inWishlist": false,
+            "itemId": "4200690269",
+            "operation": {
+              "disable": false,
+              "operationWeight": 7,
+              "text": "เพิ่มลงรายการที่ชอบ",
+              "type": "wishlist"
+            },
+            "preSaleTag": false,
+            "quantity": {
+              "limit": { "max": 0, "min": 0 },
+              "text": "สินค้าหมด",
+              "type": "warning"
+            },
+            "quantityList": [
+              {
+                "limit": { "max": 0, "min": 0 },
+                "text": "สินค้าหมด",
+                "type": "warning"
+              }
+            ],
+            "sellerId": "100200198003",
+            "skuId": "16531712849",
+            "stock": 0
+          },
+          "16531712850": {
+            "categoryId": "10100299",
+            "image": "//th-test-11.slatic.net/p/dd3dbed4f3e11d36181cd52cad3cd291.jpg",
+            "inWishlist": false,
+            "itemId": "4200690269",
+            "operation": {
+              "disable": false,
+              "operationWeight": 7,
+              "text": "เพิ่มลงรายการที่ชอบ",
+              "type": "wishlist"
+            },
+            "preSaleTag": false,
+            "quantity": {
+              "limit": { "max": 0, "min": 0 },
+              "text": "สินค้าหมด",
+              "type": "warning"
+            },
+            "quantityList": [
+              {
+                "limit": { "max": 0, "min": 0 },
+                "text": "สินค้าหมด",
+                "type": "warning"
+              }
+            ],
+            "sellerId": "100200198003",
+            "skuId": "16531712850",
+            "stock": 0
+          },
+          "16531712851": {
+            "categoryId": "10100299",
+            "image": "//th-test-11.slatic.net/p/34ef9cb6293c4b9ba9f6eb819d33c1b4.jpg",
+            "inWishlist": false,
+            "itemId": "4200690269",
+            "operation": {
+              "disable": false,
+              "operationWeight": 7,
+              "text": "เพิ่มลงรายการที่ชอบ",
+              "type": "wishlist"
+            },
+            "preSaleTag": false,
+            "quantity": {
+              "limit": { "max": 0, "min": 0 },
+              "text": "สินค้าหมด",
+              "type": "warning"
+            },
+            "quantityList": [
+              {
+                "limit": { "max": 0, "min": 0 },
+                "text": "สินค้าหมด",
+                "type": "warning"
+              }
+            ],
+            "sellerId": "100200198003",
+            "skuId": "16531712851",
+            "stock": 0
+          }
+        },
+        "tracking": {
+          "pdt_category": [
+            "เครื่องใช้ไฟฟ้าขนาดเล็ก",
+            "เครื่องปรับอากาศและกรองอากาศขนาดเล็ก",
+            "พัดลม"
+          ],
+          "pagetype": "pdp",
+          "pdt_discount": "",
+          "pdt_photo": "//th-test-11.slatic.net/p/ee2df8e19d6c69965b4420975a3f10fa.jpg",
+          "v_voya": 1,
+          "brand_name": "NUK NIK",
+          "brand_id": "124312871",
+          "pdt_sku": 4200690269,
+          "core": {
+            "country": "TH",
+            "layoutType": "desktop",
+            "language": "th",
+            "currencyCode": "THB"
+          },
+          "seller_name": "",
+          "pdt_simplesku": 16531712849,
+          "pdt_name": "พัดลมตั้งโต๊ะ 16 นิ้ว ปรับระดับได้ 3 ระดับ เสียงเงียบ FLOOR STAND FAN 5ใบพัด * รับประกันมอเตอร์ 14วัน * [ มอก 934-2558 ] - มี4สี",
+          "page": {
+            "regCategoryId": "300300001096",
+            "xParams": "_p_typ=pdp&_p_ispdp=1&_p_item=4200690269_TH-16531712849&_p_prod=4200690269&_p_sku=16531712849&_p_slr="
+          },
+          "supplier_id": "",
+          "pdt_price": "฿699.00"
+        },
+        "primaryKey": {
+          "defaultSkuId": "16531712849",
+          "fromShare": false,
+          "itemId": "4200690269",
+          "loadedSkuIds": [
+            "16531712850",
+            "16531712851",
+            "16531712848",
+            "16531712849"
+          ],
+          "pageId": "4200690269",
+          "purchaseQuantity": 0,
+          "sellerId": "100200198003",
+          "skuId": "16531712849",
+          "skuNames": ["F 46 สีขาวส้ม"],
+          "skuPath": { "30097": "F 46 สีขาวส้ม" },
+          "skuTabPath": {}
+        },
+        "requestHost": "www.lazada.co.th",
+        "seo": { "ocrContent": "" }
+      }
+    },
+    "module_core": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "ssr": false,
+        "storeMapToProps": ["globalConfig"]
+      },
+      "type": "lzd/core"
+    },
+    "block-v6lJq7BxpJ": {
+      "fields": { "className": "pdp-block_group_buy_tip" },
+      "type": "Block"
+    },
+    "module_group_buy_tip": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["groupBuyPcTip"]
+      },
+      "type": "lzd/group-buy-tip"
+    },
+    "block-x92vvLHfJj": {
+      "fields": { "className": "pdp-block__main-information" },
+      "type": "Block"
+    },
+    "block-SwfBFnt09Y": {
+      "fields": { "className": "pdp-block__gallery" },
+      "type": "Block"
+    },
+    "module_item_gallery_1": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "product",
+          "skuGalleries",
+          "variationHoverImage",
+          "seo"
+        ]
+      },
+      "type": "lzd/item-gallery"
+    },
+    "block-o9ar0mB01S": {
+      "fields": { "className": "pdp-block__main-information-detail" },
+      "type": "Block"
+    },
+    "block-zV_-Kgv_Y2": { "type": "Block" },
+    "block-waj7oO7xLuw": {
+      "fields": { "className": "pdp-block__product-detail" },
+      "type": "Block"
+    },
+    "module_flash_sale": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "skuInfos", "flashSale"]
+      },
+      "type": "lzd/flash-sale"
+    },
+    "module_crazy_deal": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "skuInfos", "crazyDeal"]
+      },
+      "type": "lzd/crazy-deal"
+    },
+    "module_redmart_top_promo_banner": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "skuInfos",
+          "globalConfig",
+          "bottom_add_to_cart_grocer"
+        ]
+      },
+      "type": "lzd/redmart-top-promo-banner"
+    },
+    "module_product_title_1": {
+      "fields": {
+        "className": "block-table-row",
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "product",
+          "price_grocer",
+          "globalConfig"
+        ]
+      },
+      "type": "lzd/product-title"
+    },
+    "module_pre-order-tag": {
+      "fields": {
+        "className": "block-table-row",
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["preOrder"]
+      },
+      "type": "lzd/pre-order-tag"
+    },
+    "block-meez5DxJ4RN": {
+      "fields": { "className": "pdp-block__rating-questions-summary" },
+      "type": "Block"
+    },
+    "block-qWcpLFNxD2s": {
+      "fields": { "className": "pdp-block__rating-questions" },
+      "type": "Block"
+    },
+    "module_product_review_star_1": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["review", "qna", "elevator"]
+      },
+      "type": "lzd/product-review-summary"
+    },
+    "block-lbYMpwgBkuY": {
+      "fields": { "className": "pdp-block__share" },
+      "type": "Block"
+    },
+    "block-ObvcIroDngB": {
+      "fields": {
+        "style": {
+          "display": "inline-block",
+          "width": "24px",
+          "height": "54px"
+        }
+      },
+      "type": "Block"
+    },
+    "module_product_share_1": {
+      "fields": {
+        "className": "block-inline",
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "ssr": false,
+        "storeMapToProps": ["product", "globalConfig"]
+      },
+      "type": "lzd/share"
+    },
+    "block-ZGmIu9ud5g_": {
+      "fields": { "style": { "display": "inline-block" } },
+      "type": "Block"
+    },
+    "module_product_wishlist_1": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "ssr": false,
+        "storeMapToProps": ["primaryKey", "skuInfos", "productOption", "user"]
+      },
+      "type": "lzd/wishlist"
+    },
+    "module_product_brand_1": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["product", "globalConfig"]
+      },
+      "type": "lzd/product-brand"
+    },
+    "module_product_attrs": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "product_attributes_grocer"]
+      },
+      "type": "lzd/product-attrs"
+    },
+    "block-wh3BJlhneJI": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "skuInfos", "priceMask"]
+      },
+      "type": "lzd/price-mask"
+    },
+    "module_product_price_1": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "skuInfos", "globalConfig"]
+      },
+      "type": "lzd/product-price"
+    },
+    "module_redmart_product_price": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "price_grocer"]
+      },
+      "type": "lzd/redmart-product-price"
+    },
+    "module_promotion_tags": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "promotionTags",
+          "globalConfig",
+          "user",
+          "vouchers",
+          "buyMoreGradients",
+          "gifts",
+          "samples"
+        ]
+      },
+      "type": "lzd/promotion-tags"
+    },
+    "module_installment": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "installments"]
+      },
+      "type": "lzd/installment"
+    },
+    "module_sku-select": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "productOption",
+          "primaryKey",
+          "showSKUSelect",
+          "skuInfos",
+          "needCheckSKU",
+          "globalConfig"
+        ],
+        "dnr": "$store.productOption.dnr"
+      },
+      "type": "lzd/sku-select"
+    },
+    "module_quantity-input": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["globalConfig", "primaryKey", "skuInfos"]
+      },
+      "type": "lzd/quantity-input"
+    },
+    "module_sms-phone-input": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["globalConfig", "primaryKey", "skuInfos", "user"],
+        "elevator": "PhoneInput"
+      },
+      "type": "lzd/sms-phone-input"
+    },
+    "module_add_to_cart": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "skuInfos",
+          "productOption",
+          "gifts",
+          "samples",
+          "globalConfig",
+          "product",
+          "user"
+        ]
+      },
+      "type": "lzd/add-to-cart"
+    },
+    "module_redmart_add_to_cart": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "skuInfos",
+          "globalConfig",
+          "bottom_add_to_cart_grocer",
+          "user"
+        ]
+      },
+      "type": "lzd/redmart-add-to-cart"
+    },
+    "block-PQHMs_hyKc4": {
+      "fields": { "className": "pdp-block__delivery-seller" },
+      "type": "Block"
+    },
+    "module_seller_delivery": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "deliveryOptions",
+          "productOption",
+          "user",
+          "globalConfig"
+        ]
+      },
+      "type": "lzd/delivery"
+    },
+    "module_redmart_delivery": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "delivery_grocer",
+          "availability_slots_grocer",
+          "delivery_module_grocer"
+        ]
+      },
+      "type": "lzd/redmart-delivery"
+    },
+    "module_seller_warranty": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "warranties"],
+        "dnr": "!$store.warranties"
+      },
+      "type": "lzd/warranty"
+    },
+    "module_guide_app": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "guideApp"]
+      },
+      "type": "lzd/guideApp"
+    },
+    "module_redmart_service": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "service_info_grocer"]
+      },
+      "type": "lzd/redmart-service"
+    },
+    "module_seller_info": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["seller", "primaryKey", "globalConfig"]
+      },
+      "type": "lzd/seller"
+    },
+    "module_redmart_seller_info": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["seller", "globalConfig"]
+      },
+      "type": "lzd/redmart-seller"
+    },
+    "block-EK0z5_Iu5i7": {
+      "fields": { "className": "pdp-block__multisource" },
+      "type": "Block"
+    },
+    "block_multiple_source": {
+      "fields": { "className": "fixed-width-full" },
+      "type": "Block"
+    },
+    "module_multiple_source": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "multiSource",
+          "user",
+          "product",
+          "globalConfig",
+          "elevator"
+        ],
+        "dnr": "!$store.multiSource"
+      },
+      "type": "lzd/multiple-source"
+    },
+    "block_add_on_service_list": {
+      "fields": { "className": "fixed-width-full pdp-block__add-on-service" },
+      "type": "Block"
+    },
+    "module_add_on_service_list": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "skuInfos",
+          "product",
+          "addOnServices",
+          "productOption",
+          "globalConfig",
+          "user",
+          "elevator"
+        ]
+      },
+      "type": "lzd/add-on-service-list"
+    },
+    "block_combo_list": {
+      "fields": { "className": "pdp-block__combo" },
+      "type": "Block"
+    },
+    "module_combo_list": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "skuInfos",
+          "product",
+          "combos",
+          "productOption",
+          "globalConfig",
+          "user",
+          "elevator"
+        ]
+      },
+      "type": "lzd/combo-list"
+    },
+    "block_shop_promotion": {
+      "fields": { "className": "pdp-block__shop_promotion" },
+      "type": "Block"
+    },
+    "module_shop_promotion": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["primaryKey", "shopPromotion"]
+      },
+      "type": "lzd/shop-promotion"
+    },
+    "block_redmart_min_spend_promotion": {
+      "fields": { "className": "pdp-block__redmart-promotion" },
+      "type": "Block"
+    },
+    "module_redmart_min_spend_promotion": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "user",
+          "min_spend_promotion_grocer",
+          "bottom_add_to_cart_grocer"
+        ]
+      },
+      "type": "lzd/redmart-min-spend-promotion"
+    },
+    "block_redmart_promotion": {
+      "fields": { "className": "pdp-block__redmart-promotion" },
+      "type": "Block"
+    },
+    "module_redmart_promotion": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "primaryKey",
+          "user",
+          "multibuy_promotion_grocer",
+          "bottom_add_to_cart_grocer"
+        ]
+      },
+      "type": "lzd/redmart-promotion"
+    },
+    "block-4b8hmVAOg-N": {
+      "fields": { "className": "pdp-block__additional-information" },
+      "type": "Block"
+    },
+    "block-aGCnMQZFdsi": {
+      "fields": { "className": "pdp-block__product-description" },
+      "type": "Block"
+    },
+    "block-okXa0hR4sby": {
+      "fields": { "className": "fixed-width-full background-2" },
+      "type": "Block"
+    },
+    "module_product_detail": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "disclaimers",
+          "product",
+          "specifications",
+          "primaryKey",
+          "elevator",
+          "attributes_grocer",
+          "qualification"
+        ],
+        "elevator": "Detail"
+      },
+      "type": "lzd/product-detail"
+    },
+    "block-lw5VSeEcwdv": {
+      "fields": {
+        "className": "fixed-width-full  block-margin-top background-2"
+      },
+      "type": "Block"
+    },
+    "module_product_review": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "review",
+          "primaryKey",
+          "skuInfos",
+          "skuGalleries",
+          "product",
+          "elevator"
+        ],
+        "elevator": "Ratings"
+      },
+      "type": "lzd/review"
+    },
+    "block-3RFZHl0fWv-": {
+      "fields": {
+        "className": "fixed-width-full  block-margin-top background-2"
+      },
+      "type": "Block"
+    },
+    "module_product_qna": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["qna", "primaryKey", "elevator"],
+        "dnr": "$store.qna.hidden",
+        "elevator": "Q&A"
+      },
+      "type": "lzd/qna"
+    },
+    "block-UGEBYhXU88y": {
+      "fields": {
+        "className": "fixed-width-full  block-margin-top pdp-block__recommendation"
+      },
+      "type": "Block"
+    },
+    "seller_recommend": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["seller", "globalConfig", "user"]
+      },
+      "type": "lzd/seller-recommend"
+    },
+    "block-FjIClzDHhEs": {
+      "fields": {
+        "className": "fixed-width-full  block-margin-top pdp-block__recommendation"
+      },
+      "type": "Block"
+    },
+    "module_recommendation": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "recommendSkus",
+          "globalConfig",
+          "recommendLoadStatus",
+          "user",
+          "primaryKey"
+        ]
+      },
+      "type": "lzd/recommendation"
+    },
+    "block-bbImQGb1zuI": {
+      "fields": {
+        "className": "fixed-width-full  block-margin-top pdp-block__recommendation"
+      },
+      "type": "Block"
+    },
+    "module_recommendation_2": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "recommendSkus",
+          "globalConfig",
+          "recommendLoadStatus",
+          "user",
+          "primaryKey"
+        ]
+      },
+      "type": "lzd/recommendation2"
+    },
+    "block-CiK-7dViMzZ": {
+      "fields": {
+        "className": "fixed-width-full block-margin-top background-2"
+      },
+      "type": "Block"
+    },
+    "module_inner_link": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": ["globalConfig", "primaryKey", "product"]
+      },
+      "type": "lzd/inner-link"
+    },
+    "block-N_yrmpiyUo7": {
+      "fields": { "className": "pdp-block__product-ads" },
+      "type": "Block"
+    },
+    "module_ads": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "storeMapToProps": [
+          "recommendSkus",
+          "globalConfig",
+          "recommendLoadStatus",
+          "user",
+          "primaryKey"
+        ]
+      },
+      "type": "lzd/ads"
+    },
+    "block_age-restriction": { "type": "Block" },
+    "module_age-restriction": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "ssr": false,
+        "storeMapToProps": ["globalConfig", "tag", "rules"]
+      },
+      "type": "lzd/age-restriction"
+    },
+    "block_popups": { "type": "Block" },
+    "module_popups": {
+      "fields": {
+        "path": "//g.lazcdn.com/g/lzdfe/pdp-modules/1.3.7/pc-mod.js",
+        "ssr": false,
+        "storeMapToProps": ["popups", "user"]
+      },
+      "type": "lzd/popups"
+    }
+  },
+  "hierarchy": {
+    "root": "root_1",
+    "structure": {
+      "root_1": [
+        "module_core",
+        "block-v6lJq7BxpJ",
+        "block-x92vvLHfJj",
+        "block-EK0z5_Iu5i7",
+        "block_add_on_service_list",
+        "block_combo_list",
+        "block_shop_promotion",
+        "block_redmart_min_spend_promotion",
+        "block_redmart_promotion",
+        "block-4b8hmVAOg-N",
+        "block_age-restriction",
+        "block_popups"
+      ],
+      "block-v6lJq7BxpJ": ["module_group_buy_tip"],
+      "block-x92vvLHfJj": ["block-SwfBFnt09Y", "block-o9ar0mB01S"],
+      "block-SwfBFnt09Y": ["module_item_gallery_1"],
+      "block-o9ar0mB01S": ["block-zV_-Kgv_Y2"],
+      "block-zV_-Kgv_Y2": ["block-waj7oO7xLuw", "block-PQHMs_hyKc4"],
+      "block-waj7oO7xLuw": [
+        "module_flash_sale",
+        "module_crazy_deal",
+        "module_redmart_top_promo_banner",
+        "module_product_title_1",
+        "module_pre-order-tag",
+        "block-meez5DxJ4RN",
+        "module_product_brand_1",
+        "module_product_attrs",
+        "block-wh3BJlhneJI",
+        "module_product_price_1",
+        "module_redmart_product_price",
+        "module_promotion_tags",
+        "module_installment",
+        "module_sku-select",
+        "module_quantity-input",
+        "module_sms-phone-input",
+        "module_add_to_cart",
+        "module_redmart_add_to_cart"
+      ],
+      "block-meez5DxJ4RN": ["block-qWcpLFNxD2s", "block-lbYMpwgBkuY"],
+      "block-qWcpLFNxD2s": ["module_product_review_star_1"],
+      "block-lbYMpwgBkuY": ["block-ObvcIroDngB", "block-ZGmIu9ud5g_"],
+      "block-ObvcIroDngB": ["module_product_share_1"],
+      "block-ZGmIu9ud5g_": ["module_product_wishlist_1"],
+      "block-PQHMs_hyKc4": [
+        "module_seller_delivery",
+        "module_redmart_delivery",
+        "module_seller_warranty",
+        "module_guide_app",
+        "module_redmart_service",
+        "module_seller_info",
+        "module_redmart_seller_info"
+      ],
+      "block-EK0z5_Iu5i7": ["block_multiple_source"],
+      "block_multiple_source": ["module_multiple_source"],
+      "block_add_on_service_list": ["module_add_on_service_list"],
+      "block_combo_list": ["module_combo_list"],
+      "block_shop_promotion": ["module_shop_promotion"],
+      "block_redmart_min_spend_promotion": [
+        "module_redmart_min_spend_promotion"
+      ],
+      "block_redmart_promotion": ["module_redmart_promotion"],
+      "block-4b8hmVAOg-N": ["block-aGCnMQZFdsi", "block-N_yrmpiyUo7"],
+      "block-aGCnMQZFdsi": [
+        "block-okXa0hR4sby",
+        "block-lw5VSeEcwdv",
+        "block-3RFZHl0fWv-",
+        "block-UGEBYhXU88y",
+        "block-FjIClzDHhEs",
+        "block-bbImQGb1zuI",
+        "block-CiK-7dViMzZ"
+      ],
+      "block-okXa0hR4sby": ["module_product_detail"],
+      "block-lw5VSeEcwdv": ["module_product_review"],
+      "block-3RFZHl0fWv-": ["module_product_qna"],
+      "block-UGEBYhXU88y": ["seller_recommend"],
+      "block-FjIClzDHhEs": ["module_recommendation"],
+      "block-bbImQGb1zuI": ["module_recommendation_2"],
+      "block-CiK-7dViMzZ": ["module_inner_link"],
+      "block-N_yrmpiyUo7": ["module_ads"],
+      "block_age-restriction": ["module_age-restriction"],
+      "block_popups": ["module_popups"]
+    }
+  }
+}
