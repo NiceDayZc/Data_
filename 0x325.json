@@ -1,0 +1,1034 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 13189532526,
+            "shop_id": 147517486,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "[ลูกค้าใหม่ 1฿] เก้าอี้สนาม พับได้ มีกระเป๋า รับน้ำหนักได้ไม่เกิน 120 กก. มีหลายสี D80 D81",
+            "image": "sg-11134201-7qvdb-lhk6iaubdoyb80",
+            "label_ids": [
+                1009116,
+                844931064601283,
+                844931086908638,
+                298513384,
+                997801029,
+                700485045,
+                298488489,
+                1015641,
+                822059879271430,
+                822120593886220,
+                298513449
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 196608,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100636,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "THB",
+            "brand": null,
+            "brand_id": 0,
+            "show_discount": 67,
+            "ctime": 1650531973,
+            "item_rating": {
+                "rating_star": 4.7058053251855085
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "จังหวัดกรุงเทพมหานคร",
+            "attributes": [
+                {
+                    "name": "เฟอร์นิเจอร์พับเก็บได้",
+                    "value": "ใช่",
+                    "id": 100785,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 4007,
+                    "url": null
+                },
+                {
+                    "name": "ประเภทเก้าอี้",
+                    "value": "เก้าอี้สนาม",
+                    "id": 100749,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 4030,
+                    "url": null
+                }
+            ],
+            "rich_text_description": null,
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "📌📌อ่านรายละเอียดก่อนกดสั่งซื้อ📌📌\n\n📸กรุณาบันทึกวิดีโอก่อนทำการแกะกล่องสินค้า📸 เพื่อเป็นหลักฐานในการทำเรื่องขอเคลมสินค้า ในกรณีได้สินค้าไม่ครบหรือสินค้ามีปัญหา หากไม่บันทึกวิดีโอทางร้านจะไม่รับผิดชอบในทุกกรณี หากมีวิดีโอหลักฐานชัดเจนเคลมได้ 100%\n\n******เก้าอี้สนามพับได้ พร้อมที่รองแขน ที่วางแก้วด้านข้าง******\n- ขนาด 50x50x80 ซม.\n- รับน้ำหนักได้ 120 กก.\n- เนื้อผ้าผลิตจาก เส้นใยโพลีเอสเตอร์\n- ท่อเหล็กพ่นสีกันสนิมหนา 16 มม.\n- ขนาดเก้าอี้เมื่อกาง : 82 x 50 x 80 ซม.\n- ขนาดสินค้า: กว้าง 50 ยาว 50 สูง 80 ซม.\n- น้ำหนักสินค้า 1.75 กก. \n- มี 5 สี ได้แก่ สีน้ำเงิน สีกรม สีเขียว และสีดำ",
+            "categories": [
+                {
+                    "catid": 100636,
+                    "display_name": "เครื่องใช้ในบ้าน",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100713,
+                    "display_name": "เฟอร์นิเจอร์",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 101171,
+                    "display_name": "เก้าอี้",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11044956,
+                    "display_name": "Home \u0026 Living",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11045178,
+                    "display_name": "Furnitures",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11045809,
+                    "display_name": "Outdoor Furnitures",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "models": [
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "CH-03 กรม",
+                    "promotion_id": 716536325214694,
+                    "price": 17000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 201,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 201,
+                    "extinfo": {
+                        "tier_index": [
+                            4
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 51000000,
+                    "model_id": 165945791301,
+                    "stock": 201,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 1963
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "เก้าอี้มินิ-น้ำเงิน",
+                    "promotion_id": 716536325214694,
+                    "price": 12000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 778,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 778,
+                    "extinfo": {
+                        "tier_index": [
+                            8
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 30000000,
+                    "model_id": 221714624455,
+                    "stock": 778,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 77
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "CH-00 สีดำ",
+                    "promotion_id": 716536325214694,
+                    "price": 17000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 4098,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 4098,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 51000000,
+                    "model_id": 125405089512,
+                    "stock": 4098,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 26910
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "CH-04 เขียว",
+                    "promotion_id": 716536325214694,
+                    "price": 17000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            5
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 51000000,
+                    "model_id": 165945791302,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 46
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "CH-02 แดง",
+                    "promotion_id": 716536325214694,
+                    "price": 17000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 51000000,
+                    "model_id": 212933138656,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 717
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "เก้าอี้มินิ-ดำ",
+                    "promotion_id": 716536325214694,
+                    "price": 12000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            6
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 30000000,
+                    "model_id": 221714624453,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 220
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "CH-01 น้ำเงิน",
+                    "promotion_id": 716536325214694,
+                    "price": 17000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 51000000,
+                    "model_id": 125405089511,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 1981
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "เก้าอิ้สนามสีดำ",
+                    "promotion_id": 716536325214694,
+                    "price": 17000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 4167,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 4167,
+                    "extinfo": {
+                        "tier_index": [
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 49000000,
+                    "model_id": 165601841371,
+                    "stock": 4167,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 5082
+                },
+                {
+                    "item_id": 13189532526,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "เก้าอี้มินิ-ขาว",
+                    "promotion_id": 716536325214694,
+                    "price": 13500000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "THZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            7
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 30000000,
+                    "model_id": 221714624454,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 558
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "สี",
+                    "options": [
+                        "CH-00 สีดำ",
+                        "CH-01 น้ำเงิน",
+                        "CH-02 แดง",
+                        "เก้าอิ้สนามสีดำ",
+                        "CH-03 กรม",
+                        "CH-04 เขียว",
+                        "เก้าอี้มินิ-ดำ",
+                        "เก้าอี้มินิ-ขาว",
+                        "เก้าอี้มินิ-น้ำเงิน"
+                    ],
+                    "images": [
+                        "1f69c9f1b6e7eb251bc1d9629a968dbe",
+                        "833e28b962898724f33fffa35e45d839",
+                        "sg-11134201-22100-emfyn56k16ivbf",
+                        "th-11134207-23020-8tqs02bkbrnve1",
+                        "th-11134207-7qul9-li2s23kvqp600e",
+                        "th-11134207-7qul9-li2s23kvs3qge0",
+                        "th-11134207-7quky-li2hq7hjldyg75",
+                        "th-11134207-7qul4-li2hq7hjmsiw61",
+                        "th-11134207-7qul4-li2hq7hjo73c96"
+                    ],
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": null,
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": null,
+                "user_credit_info": null,
+                "channel_id": null,
+                "show_spl": false,
+                "show_spl_lite": null
+            },
+            "estimated_days": 2,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 0,
+            "is_hide_stock": false,
+            "stock": 9244,
+            "normal_stock": 9244,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 12000000,
+            "raw_discount": 67,
+            "hidden_price_display": null,
+            "price_min": 12000000,
+            "price_max": 17000000,
+            "price_before_discount": 30000000,
+            "price_min_before_discount": 30000000,
+            "price_max_before_discount": 51000000,
+            "other_stock": 0,
+            "discount_stock": 9244,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": false,
+            "should_show_amp_tag": true
+        },
+        "account": {
+            "user_id": null,
+            "is_new_user": null,
+            "default_address": {
+                "state": "จังหวัดกรุงเทพมหานคร",
+                "city": "เขตพระนคร",
+                "district": "",
+                "town": "",
+                "zip_code": "",
+                "address": null,
+                "region": null
+            },
+            "adult_consent": null,
+            "birth_timestamp": null
+        },
+        "product_images": {
+            "video": {
+                "video_id": "d6ddc5aa0669cd951064db8a0d81654d",
+                "thumb_url": "fa242ee35bfa1a2396baf4c7f52a4590",
+                "duration": 20,
+                "version": 2,
+                "vid": "sg_ddb6e907-9c23-4f5c-9f4c-37db4927b9c9_000134",
+                "formats": [
+                    {
+                        "format": 1600003,
+                        "defn": "V480P",
+                        "profile": "MP4",
+                        "path": "c3/98934353/105/AnoyQwUA6D55LQEh=wEMAEY.mp4",
+                        "url": "https://play-ws.vod.shopee.com/c3/98934353/105/AnoyQwUA6D55LQEh=wEMAEY.mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "format": 1600010,
+                        "defn": "V540P",
+                        "profile": "MP4",
+                        "path": "c3/98934353/105/Anoyu=oACGh5LQEhvAEGAEY.mp4",
+                        "url": "https://play-ws.vod.shopee.com/c3/98934353/105/Anoyu=oACGh5LQEhvAEGAEY.mp4",
+                        "width": 540,
+                        "height": 540
+                    },
+                    {
+                        "format": 1600008,
+                        "defn": "V720P",
+                        "profile": "MP4",
+                        "path": "c3/98934353/105/AnoyBRgAeDR5LQEhBgILAEY.mp4",
+                        "url": "https://play-ws.vod.shopee.com/c3/98934353/105/AnoyBRgAeDR5LQEhBgILAEY.mp4",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "default_format": {
+                    "format": 1600008,
+                    "defn": "V720P",
+                    "profile": "MP4",
+                    "path": "",
+                    "url": "https://play-ws.vod.shopee.com/c3/98934353/105/AnoyBRgAeDR5LQEhBgILAEY.mp4",
+                    "width": 640,
+                    "height": 640
+                },
+                "mms_data": "{\"vid\":\"sg_ddb6e907-9c23-4f5c-9f4c-37db4927b9c9_000134\",\"biz\":107,\"duration\":20034,\"create_time\":1650531904,\"update_time\":1650531912,\"serviceID\":2,\"cover\":\"https://play-ws.vod.shopee.com/c3/98934353/105/Anoyx=oArM94LQEh9gEJAEc.jpg\",\"formats\":[{\"format\":1600003,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/AnoyQwUA6D55LQEh=wEMAEY.mp4\",\"url\":\"https://play-ws.vod.shopee.com/c3/98934353/105/AnoyQwUA6D55LQEh=wEMAEY.mp4\",\"width\":480,\"height\":480,\"bitrate\":675993,\"abitrate\":48780,\"duration\":20034,\"size\":1827672,\"fps\":25,\"update_time\":1650531913},{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/Anoyu=oACGh5LQEhvAEGAEY.mp4\",\"url\":\"https://play-ws.vod.shopee.com/c3/98934353/105/Anoyu=oACGh5LQEhvAEGAEY.mp4\",\"width\":540,\"height\":540,\"bitrate\":780440,\"abitrate\":48780,\"duration\":20034,\"size\":2088791,\"fps\":25,\"update_time\":1650531916},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/AnoyBRgAeDR5LQEhBgILAEY.mp4\",\"url\":\"https://play-ws.vod.shopee.com/c3/98934353/105/AnoyBRgAeDR5LQEhBgILAEY.mp4\",\"width\":640,\"height\":640,\"bitrate\":1094386,\"abitrate\":97773,\"duration\":20034,\"size\":2996344,\"fps\":25,\"update_time\":1650531913}],\"extend_formats\":{\"H265\":[{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_ddb6e907-9c23-4f5c-9f4c-37db4927b9c9_000134.16003071678310602.mp4\",\"url\":\"https://play-ws.vod.shopee.com/api/v4/11110107/mms/sg_ddb6e907-9c23-4f5c-9f4c-37db4927b9c9_000134.16003071678310602.mp4\",\"width\":540,\"height\":540,\"bitrate\":500330,\"abitrate\":96393,\"duration\":20016,\"size\":1508103,\"fps\":25.0502,\"update_time\":1678310617},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ddb6e907-9c23-4f5c-9f4c-37db4927b9c9_000134.16003091684255823.mp4\",\"url\":\"https://play-ws.vod.shopee.com/api/v4/11110105/mms/sg_ddb6e907-9c23-4f5c-9f4c-37db4927b9c9_000134.16003091684255823.mp4\",\"width\":640,\"height\":640,\"bitrate\":654762,\"abitrate\":96393,\"duration\":20016,\"size\":1892636,\"fps\":25.0502,\"update_time\":1684255838}]},\"default_format\":{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"url\":\"https://play-ws.vod.shopee.com/c3/98934353/105/AnoyBRgAeDR5LQEhBgILAEY.mp4\",\"width\":640,\"height\":640,\"bitrate\":1094386,\"abitrate\":97773,\"duration\":20034,\"size\":2996344,\"fps\":25,\"update_time\":1650531913}}",
+                "item_cover": null
+            },
+            "images": [
+                "sg-11134201-7qvdb-lhk6iaubdoyb80",
+                "bf0b84068b2ca3c418354c251808ecca",
+                "5b69bc960d718d7107ad9726b40c75a8",
+                "5eb69078626845a80d2b2a0f5de6b068",
+                "8e4f40a6c28e7edf8c2aebcb5f3b7244",
+                "48e11b617e727dc37943b2b21dc04344",
+                "c18c35a3e5e9c181c50e25fe19b41cd1",
+                "sg-11134201-7qvdj-lhk6iay79eyc14",
+                "19c6f66e45250aeecf95c9167b75a015"
+            ],
+            "first_tier_variations": [
+                {
+                    "name": "CH-00 สีดำ",
+                    "image": "1f69c9f1b6e7eb251bc1d9629a968dbe",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "CH-01 น้ำเงิน",
+                    "image": "833e28b962898724f33fffa35e45d839",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "CH-02 แดง",
+                    "image": "sg-11134201-22100-emfyn56k16ivbf",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "เก้าอิ้สนามสีดำ",
+                    "image": "th-11134207-23020-8tqs02bkbrnve1",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "CH-03 กรม",
+                    "image": "th-11134207-7qul9-li2s23kvqp600e",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "CH-04 เขียว",
+                    "image": "th-11134207-7qul9-li2s23kvs3qge0",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "เก้าอี้มินิ-ดำ",
+                    "image": "th-11134207-7quky-li2hq7hjldyg75",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "เก้าอี้มินิ-ขาว",
+                    "image": "th-11134207-7qul4-li2hq7hjmsiw61",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "เก้าอี้มินิ-น้ำเงิน",
+                    "image": "th-11134207-7qul4-li2hq7hjo73c96",
+                    "summed_stock": 0
+                }
+            ],
+            "sorted_variation_image_index_list": [],
+            "overlay": null,
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null
+        },
+        "product_price": {
+            "discount": 60,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": -1,
+                "range_min": 12000000,
+                "range_max": 17000000,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": -1,
+                "range_min": 30000000,
+                "range_max": 51000000,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": null,
+            "discount_text": null
+        },
+        "flash_sale": null,
+        "flash_sale_preview": {
+            "promotionid": 748425348189670,
+            "flash_sale_type": 2,
+            "start_time": 1697950800,
+            "extra_discount_info": null
+        },
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": false,
+            "show_original_guarantee": false,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": true
+        },
+        "product_review": {
+            "rating_star": 4.7058053251855085,
+            "rating_count": [
+                6873,
+                75,
+                101,
+                301,
+                817,
+                5579
+            ],
+            "total_rating_count": 6873,
+            "historical_sold": 37554,
+            "global_sold": 37554,
+            "liked": false,
+            "liked_count": 5960,
+            "cmt_count": 6870,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": null
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": {
+            "show_fufilled_by_shopee": false,
+            "show_cod": true,
+            "show_mart": false,
+            "show_next_day_delivery": false
+        },
+        "product_shipping": {
+            "free_shipping": null,
+            "shipping_fee_info": {
+                "ship_from_location": "จังหวัดกรุงเทพมหานคร",
+                "price": {
+                    "single_value": 3500000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 7000,
+                    "name": "Standard Delivery - ส่งธรรมดาในประเทศ",
+                    "price": {
+                        "single_value": 3500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1698118994,
+                        "estimated_delivery_date_to": 1698378194,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null
+                    },
+                    "channel_promotion_infos": null,
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": null,
+            "pre_selected_shipping_channel": null,
+            "show_grouped_channel_first": null,
+            "is_item_with_price_range": true,
+            "pre_order_text": ""
+        },
+        "shop_vouchers": [
+            {
+                "promotionid": 733053148561424,
+                "voucher_code": "LUCK50020",
+                "signature": "eae14ca07ceea826d6405de14ab36f1c1209f41a83fba29a7f32cdc6b32a3e48",
+                "use_type": null,
+                "platform_type": null,
+                "voucher_market_type": null,
+                "min_spend": 50000000,
+                "used_price": null,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 0,
+                "start_time": 1696846020,
+                "end_time": 1704967560,
+                "collect_time": null,
+                "claim_start_time": null,
+                "valid_days": null,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 2000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "ffdf825d3a3647c188d2dbff80a38214",
+                "icon_text": "S P SHOP",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 147517486,
+                "shop_name": null,
+                "is_shop_preferred": true,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": null,
+                "customer_reference_id": null,
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 2000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": null,
+                "new_user_only": null,
+                "description": null,
+                "shop_logo": null,
+                "error_code": 9,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            }
+        ],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "เฟอร์นิเจอร์พับเก็บได้",
+                    "value": "ใช่",
+                    "id": 100785,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 4007,
+                    "url": null
+                },
+                {
+                    "name": "ประเภทเก้าอี้",
+                    "value": "เก้าอี้สนาม",
+                    "id": 100749,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 4030,
+                    "url": null
+                },
+                {
+                    "name": "label_stock",
+                    "value": "9244",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null
+                },
+                {
+                    "name": "label_ship_from",
+                    "value": "จังหวัดกรุงเทพมหานคร",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11044956,
+                    "display_name": "Home \u0026 Living",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11045178,
+                    "display_name": "Furnitures",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11045809,
+                    "display_name": "Outdoor Furnitures",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ]
+        },
+        "shop_detailed": {
+            "shopid": 147517486,
+            "userid": 147519310,
+            "last_active_time": 1697946047,
+            "vacation": false,
+            "place": "เขตบางขุนเทียน, จังหวัดกรุงเทพมหานคร",
+            "account": {
+                "portrait": "ffdf825d3a3647c188d2dbff80a38214",
+                "username": "luckyhomeshop",
+                "status": 1
+            },
+            "is_shopee_verified": true,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "จังหวัดกรุงเทพมหานคร",
+            "item_count": 133,
+            "rating_star": 4.665463,
+            "response_rate": 100,
+            "session_info": null,
+            "name": "S P SHOP",
+            "ctime": 1557922485,
+            "response_time": 4657,
+            "follower_count": 51566,
+            "show_official_shop_label": false,
+            "rating_bad": 799,
+            "rating_good": 54625,
+            "rating_normal": 3919,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 332381
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": null,
+            "exclusive_price_label": null,
+            "free_return": null,
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null
+    }
+}
